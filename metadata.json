@@ -1,0 +1,9 @@
+{
+  "name": "InterviewGenie - AI Mock Interview & Feedback Engine",
+  "description": "AI-powered real-time mock interview practice platform featuring multi-role simulations, speech-to-text, sentiment & speech pacing analysis, STAR method scoring, and actionable automated feedback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
